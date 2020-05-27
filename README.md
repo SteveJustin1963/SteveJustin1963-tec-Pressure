@@ -1,2 +1,2 @@
-# SteveJustin1963-tec-Pressure
+# tec-Pressure
 Pressure Reader / Controller.
